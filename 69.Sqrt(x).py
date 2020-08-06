@@ -29,4 +29,3 @@ class Solution:
             return end+1
         else:
             return -1
-
